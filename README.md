@@ -1,3 +1,4 @@
-# deconwolf-oligofisseq
 
-- Text draft: ([GDoc](https://docs.google.com/document/d/1Lz3rOdyuVkJO7BA50u94uAZBMYsoZUDk_P_jRsipb-k/edit))
+
+[![DOI](https://zenodo.org/badge/414234323.svg)](https://zenodo.org/badge/latestdoi/414234323)
+
